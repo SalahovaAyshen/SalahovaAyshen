@@ -90,7 +90,7 @@
 <table width='100%'> 
     <tr>
         <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> 
-            <img src="https://www.codeguru.com/wp-content/uploads/2021/08/C-Sharp-Tutorials-1536x864.png" alt="c#" width="48" height="48" min-width="44" /> 
+            <img src="https://camo.githubusercontent.com/6bffdf7511ad2efb80dcb539a0d8603d4d017e58302af626744d3c6022414be2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667" alt="c#" width="48" height="48" min-width="44" /> 
         </a>
         <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
             <img src="https://www.pinclipart.com/picdir/big/86-862246_starting-with-our-ios-and-android-sdks-our.png" alt=".net core" width="48" height="48" min-width="44" /> 
