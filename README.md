@@ -42,7 +42,7 @@
 <table width='100%'>
   <tr>
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/01/visualstudio-1.png" alt="visualstudio" width="44" height="44"/> 
+            <img src="https://camo.githubusercontent.com/24af23c2a10d7d364c9692163937df852e7a385e89bb17ba8427128524ef6a6e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32632f56697375616c5f53747564696f5f49636f6e5f323032322e7376672f3130303070782d56697375616c5f53747564696f5f49636f6e5f323032322e7376672e706e67" alt="visualstudio" width="44" height="44"/> 
         </a>  
       <a href="https://git-scm.com/" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" min-width="44" alt="Git" />
