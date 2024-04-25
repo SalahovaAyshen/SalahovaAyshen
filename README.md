@@ -98,14 +98,14 @@
         <a href="https://www.microsoft.com/ru-ru/sql-server" target="_blank" rel="noreferrer"> 
             <img src="https://ct-academy.ch/wp-content/uploads/2019/08/microsoft-sql-server.svg" alt="mssql" width="48" height="48" min-width="44" /> 
         </a>
-       <a href="https://automapper.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://avatars.githubusercontent.com/u/890883" alt="automapper" width="48" height="48" min-width="44" /> 
-        </a>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="mongodb" width="48" height="48" min-width="44" /> 
         </a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="mysql" width="48" height="48" min-width="44" /> 
+        </a>
+           <a href="https://automapper.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://avatars.githubusercontent.com/u/890883" alt="automapper" width="48" height="48" min-width="44" /> 
         </a>
   </tr> 
 </table>
